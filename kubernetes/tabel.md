@@ -329,6 +329,65 @@
 |         |              |                  | - Errors                                                        |
 |         |              |                  | - Traffic                                                       |
 
+---
+| Session | Date         | Tool             | Topics Covered                                                  |
+|---------|--------------|------------------|-----------------------------------------------------------------|
+| 6       | 08-APR-2024  | Expenses Project | - Process Management                                            |
+|         |              |                  | - Network Management                                            |
+|         |              |                  | - RDBMS                                                         |
+|         |              |                  | - Expenses project configuration                                |
+|         |              |                  | - MySQL                                                         |
+|         |              |                  | - Backend                                                       |
+|         |              |                  |                                                                 |
+| 7       | 09-APR-2024  | Expenses Project | - MySQL                                                         |
+|         |              |                  | - Backend                                                       |
+|         |              |                  | - Frontend                                                      |
+|         |              |                  | - Public vs Private IP                                          |
+|         |              |                  | - Forward vs Reverse Proxy                                      |
+|         |              |                  | - Backend                                                       |
+|         |              |                  | - Backend                                                       |
+|         |              |                  |                                                                 |
+| 8       | 11-APR-2024  | Expenses Project | - How DNS works                                                 |
+|         |              |                  | - Symlink vs Hardlink                                           |
+|         |              |                  | - Linux Folder Structure                                        |
+|         |              |                  |                                                                 |
+| 9       | 15-APR-2024  | Shell Script     | - Shell introduction                                            |
+|         |              |                  | - GitHub signup                                                 |
+|         |              |                  | - Repo creation                                                 |
+|         |              |                  | - GitHub token                                                  |
+|         |              |                  | - Committing and pushing changes                                |
+|         |              |                  | - Quiz                                                          |
+|         |              |                  |                                                                 |
+| 10      | 16-APR-2024  | Shell Script     | - Variables                                                     |
+|         |              |                  | - Read command                                                  |
+|         |              |                  | - Conditions                                                    |
+|         |              |                  | - Exit status                                                   |
+|         |              |                  | - Special variables in Shell Script                             |
+|         |              |                  |                                                                 |
+| 11      | 18-APR-2024  | Shell Script     | - Functions                                                     |
+|         |              |                  | - Colours                                                       |
+|         |              |                  | - Logs and Redirections                                         |
+|         |              |                  | - Loops                                                         |
+|         |              |                  | - Expense MySQL script                                          |
+|         |              |                  |                                                                 |
+| 12      | 19-APR-2024  | Shell Script     | - Idempotency                                                   |
+|         |              |                  | - Expense project completed                                     |
+|         |              |                  |                                                                 |
+| 13      | 23-APR-2024  | Shell Script     | - How to call other scripts                                     |
+|         |              |                  | - Set parameter                                                 |
+|         |              |                  | - Error handling                                                |
+|         |              |                  | - Delete old logs                                               |
+|         |              |                  |                                                                 |
+| 14      | 24-APR-2024  | Shell Script     | - Crontab                                                       |
+|         |              |                  | - Disk Usage                                                    |
+|         |              |                  | - Sending Gmail from Linux Server                               |
+|         |              |                  | - Shell Disadvantages                                           |
+|         |              |                  |                                                                 |
+| 15      | 25-APR-2024  | Ansible          | - Push vs Pull                                                  |
+|         |              |                  | - Install Ansible                                               |
+|         |              |                  | - Adhoc commands                                                |
+|         |              |                  | - XML vs JSON vs YAML                                           |
+
 
 
 
