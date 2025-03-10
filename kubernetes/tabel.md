@@ -1,10 +1,12 @@
-# 78S Content
+## 78S Content
 
-## Content Index
+### Content Index
 
-### Expenses Project
+<div style="display: flex;">
 
-#### Session-6 (08-APR-2024)   
+<div style="flex: 1; padding: 10px; border: 1px solid black;">
+
+#### Session-6 (08-APR-2024)
 - Process Management
 - Network Management
 - RDBMS
@@ -63,7 +65,7 @@
 - Disk Usage
 - Sending Gmail from Linux Server
 - Shell Disadvantages
-
+---
 ### Ansible
 
 #### Session-15 (25-APR-2024)
@@ -105,7 +107,7 @@
 - Ansible forks
 - Ansible EC2
 - Ansible vs Terraform
-
+---
 ### Terraform
 
 #### Session-21 (06-MAY-2024)
@@ -142,10 +144,6 @@
 - Terraform provisioners
     - Local-exec
     - Remote exec
-
-# 78S Content
-
-## Terraform
 
 #### Session-26 (14-MAY-2024)
 - Module development
@@ -246,7 +244,10 @@
 - CloudFront
 - HTTP Methods
 
----
+
+</div>
+
+<div style="flex: 1; padding: 10px; border: 1px solid black;">
 
 ## GIT
 
@@ -449,7 +450,7 @@
 - Pipelines
     - Development Pipeline
     - Non-Prod Pipeline
-    - Prod Pipeline  
+    - Prod Pipeline
 # 78S Content
 
 ## Roboshop
@@ -507,5 +508,9 @@
 - 4 Golden Signals
     - Latency
     - Errors
-    - Traffic  
+    - Traffic
 
+
+</div>
+
+</div>
