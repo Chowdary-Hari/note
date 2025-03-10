@@ -1,10 +1,74 @@
+## 78S Content
+
+### Content Index
+
+<div style="display: flex;">
+
+<div style="flex: 1; padding: 10px; border: 1px solid black;">
+
+### Sessions 1-40
+
+#### Session-6 (08-APR-2024)
+- Process Management
+- Network Management
+- RDBMS
+- Expenses project configuration
+- MySQL
+- Backend
+
+#### Session-7 (09-APR-2024)
+- MySQL
+- Backend
+- Frontend
+- Public vs Private IP
+- Forward vs Reverse Proxy
+
+#### Session-8 (11-APR-2024)
+- How DNS works
+- Symlink vs Hardlink
+- Linux Folder Structure
+
+#### Session-9 to Session-40
+- Shell Scripting
+- Ansible
+- Terraform
+- GIT
+
+</div>
+
+<div style="flex: 1; padding: 10px; border: 1px solid black;">
+
+### Sessions 41-78
+
+#### Session-41 (05-JUNE-2024)
+- Branching Strategy
+- Git flow
+- Feature branching
+- CR process
+
+#### Session-42 (06-JUNE-2024)
+- Reset
+- Revert
+- Jenkins Installation
+
+#### Session-43 to Session-78
+- Jenkins
+- Docker
+- Kubernetes
+- Roboshop
+- Monitoring
+
+</div>
+
+</div>
+
 # 78S Content
 
 ## Content Index
 
 ### Expenses Project
 
-#### Session-6 (08-APR-2024)
+#### Session-6 (08-APR-2024)   
 - Process Management
 - Network Management
 - RDBMS
@@ -509,16 +573,3 @@
     - Errors
     - Traffic  
 
-
----
-| Session | Date           | tool             | Topics Covered                   |
-|---------|----------------|------------------|----------------------------------|
-| 6       |  08-APR-2024   | Expenses Project | - Process Management             |
-|         |                |                  | - Process Management             |
-|         |                |                  | - Network Management             |
-|         |                |                  | - RDBMS                          |
-|         |                |                  | - Expenses project configuration |
-|         |                |                  | - MySQL                          | 
-|         |                |                  | - Backend                        |
-
-give me this way all data 
