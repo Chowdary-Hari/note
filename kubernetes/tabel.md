@@ -244,9 +244,7 @@
 - CloudFront
 - HTTP Methods
 
-
 </div>
-
 <div style="flex: 1; padding: 10px; border: 1px solid black;">
 
 ## GIT
