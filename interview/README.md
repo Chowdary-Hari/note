@@ -45,7 +45,7 @@ I am always eager to learn new technologies and improve DevOps processes. I am e
 
 # Experience
 
-## **Period:** SEP 2022 to Present
+## SEP 22 to Present
 **Role:** SRE / DevOps Engineer  
 **Environment:** AWS (EKS, EC2, ELB, WAF, CloudWatch, RDS, etc.), DevOps (Kubernetes, Terraform, Git, Jenkins, Prometheus & Grafana)
 
@@ -63,7 +63,7 @@ I am always eager to learn new technologies and improve DevOps processes. I am e
 
 ---
 
-## **Period:** Aug 2019 to Aug 2022
+## Aug 19 to Aug 22
 **Role:** SRE / DevOps Engineer  
 **Environment:** Linux, Jenkins, Git, Docker Images, AWS, Ansible, Terraform, Kubernetes (EKS), ECR, ASG, Prometheus & Grafana
 
