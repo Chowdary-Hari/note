@@ -17,8 +17,8 @@ I focus on automation and scalability, ensuring infrastructure is reliable and e
 ### **Closing:**
 I am always eager to learn new technologies and improve DevOps processes. I am excited about the opportunity to contribute my skills and grow in this role.
 
-################################################################################################################################
-################################################################################################################################
+#######################################################################################################
+#######################################################################################################
 
 # Professional Summary
 
