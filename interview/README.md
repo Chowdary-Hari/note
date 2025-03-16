@@ -45,42 +45,27 @@ I am always eager to learn new technologies and improve DevOps processes. I am e
 
 # Experience
 
-## SEP 22 to Present
-**Role:** SRE / DevOps Engineer  
-**Environment:** AWS (EKS, EC2, ELB, WAF, CloudWatch, RDS, etc.), DevOps (Kubernetes, Terraform, Git, Jenkins, Prometheus & Grafana)
+# Client: HSBC
 
-### **Responsibilities:**
-- Expertise in making code DRY in Jenkins, Terraform, Ansible, and Kubernetes.
-- Expertise in CI/CD pipelines using Jenkins and multi-environment provisioning using Terraform.
-- Created CI/CD pipelines by integrating Git, Jenkins, Ansible, and Terraform.
-- Experience in creating Jenkins shared libraries and Terraform modules.
-- Automated the code deployment process in development, QA, staging, and production environments.
-- Configured a continuous integration process and interfaced with the operations team to ensure project artifacts are deployed automatically using Jenkins.
-- Participated in bug review meetings and released builds to pre-production and production servers.
-- Expertise in EKS deployments and finding the root cause of failed deployments.
-- Responsible for deployment on Linux for Dev, QA, staging, and production environments.
-- Prepared build statistics and presented them to the management team.
+## Project: Implementation & Supporting
 
----
+**Period:** March 2016 to 2019  
+**Role:** DevOps Engineer
 
-## Aug 19 to Aug 22
-**Role:** SRE / DevOps Engineer  
-**Environment:** Linux, Jenkins, Git, Docker Images, AWS, Ansible, Terraform, Kubernetes (EKS), ECR, ASG, Prometheus & Grafana
+## DESCRIPTION:
+The Design TO Cost (DTC) is a web-based application for tracking and managing product cost with cost-related data for a new product development program. Besides tracking the product cost data, the tool also provides for workflow and facilitates collaboration amongst team members working on a program. This manual introduces the features of the tool together with instructions on how to use the tool for managing product cost data. This manual organizes such features into sections that define the various user roles.
 
-### **Responsibilities:**
-- Automated deployment using the configuration management tool Ansible.
-- Worked with Configuration Management, using Terraform post-provisioners to deploy applications on EC2 instances.
-- Created traffic, latency, and error dashboards using ELK.
-- Experience in creating Jenkins shared libraries and Terraform modules.
-- Expertise in EKS deployments and identifying root causes of failed deployments.
-- Whitelisted partner IP addresses at the WAF level and troubleshot network communication across the AWS platform.
-- Created manual backups for RDS and EC2, performed certificate renewal activities on ELB, and carried out RDS upgrade activities in AWS.
-- Maintained source code in Git for various applications.
-- Administered merge, build, and deployment of code across all environments.
-- Responsible for creating branches and managing deployments.
-- Configured and maintained the codebase to support the build and deployment of code on servers.
-- Supported developers in configuration management environments.
-- Responsible for build/deploy pipeline setup and end-to-end job management.
+## Responsibilities:
+- Highly motivated and committed AWS Engineer experienced in Automating, Configuring, and deploying instances on AWS and also familiar with EC2, CloudWatch, Elastic IPs, and managing security groups on AWS.
+- Deployed the Java application into web application servers like Apache Tomcat.
+- Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/Ubuntu) and configuring launched instances with respect to specific applications.
+- Create Chef automation tools and builds, and do an overall process improvement to any manual processes.
+- Experienced in build and deployment of Java applications onto different environments such as QA, UAT, and Production.
+- Virtualized the servers using Docker for test environments and dev-environments needs. Also performed configuration automation using Docker containers.
+- Working on AWS Auto Scaling for providing high availability of applications and EC2 instances based on the load of applications by using CloudWatch in AWS.
+- EBS Volumes management and working on creating snapshots for backups manually and using scripts.
+- Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/Ubuntu/RHEL) and configuring launched instances with respect to specific applications.
+
 
 
 
