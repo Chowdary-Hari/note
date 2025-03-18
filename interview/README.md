@@ -69,3 +69,29 @@ The Design TO Cost (DTC) is a web-based application for tracking and managing pr
 
 
 
+#######################################################################################################
+#######################################################################################################
+
+## Environment
+Linux, Jenkins, GIT, Docker Images, AWS, Ansible, Terraform, Kubernetes (EKS), ECR, ASG ,Elk.
+
+## Responsibilities
+
+- Expertise in making code DRY (Don't Repeat Yourself) in Jenkins, Terraform, Ansible, and Kubernetes.
+- Expertise in CI/CD pipelines using Jenkins and multi-environment provisioning using Terraform.
+- Created CI/CD pipelines by integrating Git, Jenkins, Ansible, and Terraform. Automated deployment using Ansible as a configuration management tool.
+- Experience in DevOps Engineering, automating, building, and deploying code within different environments (Dev, QA, Pre-prod, and Prod). Coordinated with the dev team to fix build-related issues.
+- Experience with continuous integration tools like Jenkins. Created Continuous Integration and Continuous Deployment pipelines. Developed Terraform modules and used them in multiple stages of Jenkins CD pipeline.
+- Worked with configuration management, using Terraform Post-Provisioners to deploy applications on EC2 instances.
+- Migrated mutable infrastructure to cloud-managed Kubernetes clusters (EKS) using aws DevOps.
+- Created Traffic, Latency, Errors, and Saturation dashboards for the SRE team using Elk.
+- Created EC2 analytics dashboards for cost savings inElk.
+
+### Automation Tasks (Multiple AWS Accounts)
+
+- Listed all drifted CloudFormation stacks using a Python script that saves results to a CSV file.
+- Identified unutilized AWS resources using a Python script that saves results to a CSV file.
+- Updated deprecated Python runtime from 2.7 to 3.9 for Lambda functions.
+- Used Python to tag AWS resources.
+- Listed CloudWatch datasets to a CSV file for CPU, Network In, and Network Out using Python (average CPU for 10 days, 20 days, 30 days, etc.).
+
