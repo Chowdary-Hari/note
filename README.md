@@ -17,9 +17,8 @@ I focus on automation and scalability, ensuring infrastructure is reliable and e
 ### **Closing:**
 I am always eager to learn new technologies and improve DevOps processes. I am excited about the opportunity to contribute my skills and grow in this role.
 
-#######################################################################################################
-#######################################################################################################
-
+#####################################################################################
+#####################################################################################
 # Professional Summary
 
 - Extensive experience in continuous integration, continuous deployment, continuous delivery, supporting build pipelines, release management, configuration management, infrastructure management, and cloud computing.
@@ -59,7 +58,5 @@ The Design TO Cost (DTC) is a web-based application for tracking and managing pr
 - Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/Ubuntu/RHEL) and configuring launched instances with respect to specific applications.
 
 
-
-
-#######################################################################################################
-#######################################################################################################
+#####################################################################################
+#####################################################################################
