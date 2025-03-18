@@ -45,13 +45,6 @@ I am always eager to learn new technologies and improve DevOps processes. I am e
 
 # Experience
 
-# Client: HSBC
-
-## Project: Implementation & Supporting
-
-**Period:** March 2016 to 2019  
-**Role:** DevOps Engineer
-
 ## DESCRIPTION:
 The Design TO Cost (DTC) is a web-based application for tracking and managing product cost with cost-related data for a new product development program. Besides tracking the product cost data, the tool also provides for workflow and facilitates collaboration amongst team members working on a program. This manual introduces the features of the tool together with instructions on how to use the tool for managing product cost data. This manual organizes such features into sections that define the various user roles.
 
@@ -71,6 +64,24 @@ The Design TO Cost (DTC) is a web-based application for tracking and managing pr
 
 #######################################################################################################
 #######################################################################################################
+## Cloud Services (AWS)
+EC2, ECR, EKS, S3, Auto-Scaling, ELB, WAF, Elastic Beanstalk, Glacier, RDS, VPC, CloudWatch, CloudFormation, IAM, SNS, Lambda, SQS, and API Gateway.
+
+## Tools & Technologies
+- **Versioning Tool:** Git
+- **Configuration Management Tool:** Ansible
+- **Infrastructure Provisioning Tool:** Terraform
+- **CI/CD Tools:** Jenkins, Azure DevOps
+- **Build Tool:** Maven
+- **Static Code Analysis:** SonarQube
+- **Artifactory:** Nexus Repository
+- **Container Tool:** Docker
+- **Orchestration Tool:** Kubernetes
+- **Operating Systems:** Linux, Windows
+- **Monitoring Tools:** Elk, Prometheus, Grafana
+- **Scripting Languages:** Python, Bash
+- **Web/App Servers:** Nginx
+
 
 ## Environment
 Linux, Jenkins, GIT, Docker Images, AWS, Ansible, Terraform, Kubernetes (EKS), ECR, ASG ,Elk.
